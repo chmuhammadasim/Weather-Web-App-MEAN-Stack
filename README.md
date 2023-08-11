@@ -56,6 +56,7 @@ npm install
   Configure MongoDB connection and Ports:
 
    - Create and .env file in backend
+   - Add enviroment IP in frontend/src/enviroments (environment.development.ts , environment.ts)
    - Update the MongoDB connection URI as per your configuration.
 
   Build and serve the Angular frontend:
