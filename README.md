@@ -2,7 +2,6 @@
 
 Welcome to Weathery! This is a web application that provides users with real-time weather forecasts and weather-related information. Weathery is built using the MEAN stack, where MongoDB serves as the database, Tailwind CSS for styling, Angular for frontend development, and Node.js for backend functionality.
 
-[image](https://github.com/chmuhammadasim/Weather-Web-App-MEAN-Stack/assets/89093185/056a1918-7804-44df-ae47-8ba68085bec0)
 
 ## Table of Contents
 
@@ -100,3 +99,8 @@ Weathery is released under the [MIT License](LICENSE).
 If you have any questions or feedback, feel free to reach out to our team at [muhammadasimchattha@gmail.com](mailto:muhammadasimchattha@gmail.com)
 
 ##Thank you for choosing Weathery! We hope you enjoy using our weather forecast application.
+
+![image](https://github.com/chmuhammadasim/Weather-Web-App-MEAN-Stack/assets/89093185/3afc8ede-6290-4e5b-ac7d-301ecb8fd037)
+![image](https://github.com/chmuhammadasim/Weather-Web-App-MEAN-Stack/assets/89093185/6304fe34-2414-4499-b3e3-99b44b55ec9a)
+![image](https://github.com/chmuhammadasim/Weather-Web-App-MEAN-Stack/assets/89093185/4e175a39-566b-498a-a673-cf46758f2e04)
+
